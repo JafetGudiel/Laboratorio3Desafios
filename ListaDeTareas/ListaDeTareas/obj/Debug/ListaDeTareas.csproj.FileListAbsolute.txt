@@ -1,0 +1,7 @@
+C:\Users\TF049\Documents\clases cursos C#\ListaDeTareas\ListaDeTareas\bin\Debug\ListaDeTareas.exe.config
+C:\Users\TF049\Documents\clases cursos C#\ListaDeTareas\ListaDeTareas\bin\Debug\ListaDeTareas.exe
+C:\Users\TF049\Documents\clases cursos C#\ListaDeTareas\ListaDeTareas\bin\Debug\ListaDeTareas.pdb
+C:\Users\TF049\Documents\clases cursos C#\ListaDeTareas\ListaDeTareas\obj\Debug\ListaDeTareas.csproj.AssemblyReference.cache
+C:\Users\TF049\Documents\clases cursos C#\ListaDeTareas\ListaDeTareas\obj\Debug\ListaDeTareas.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Documents\clases cursos C#\ListaDeTareas\ListaDeTareas\obj\Debug\ListaDeTareas.exe
+C:\Users\TF049\Documents\clases cursos C#\ListaDeTareas\ListaDeTareas\obj\Debug\ListaDeTareas.pdb

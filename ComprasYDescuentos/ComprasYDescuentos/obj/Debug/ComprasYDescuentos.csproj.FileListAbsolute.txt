@@ -1,0 +1,14 @@
+C:\Users\TF049\Documents\clases cursos C#\ComprasYDescuentos\ComprasYDescuentos\bin\Debug\ComprasYDescuentos.exe.config
+C:\Users\TF049\Documents\clases cursos C#\ComprasYDescuentos\ComprasYDescuentos\bin\Debug\ComprasYDescuentos.exe
+C:\Users\TF049\Documents\clases cursos C#\ComprasYDescuentos\ComprasYDescuentos\bin\Debug\ComprasYDescuentos.pdb
+C:\Users\TF049\Documents\clases cursos C#\ComprasYDescuentos\ComprasYDescuentos\obj\Debug\ComprasYDescuentos.csproj.AssemblyReference.cache
+C:\Users\TF049\Documents\clases cursos C#\ComprasYDescuentos\ComprasYDescuentos\obj\Debug\ComprasYDescuentos.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Documents\clases cursos C#\ComprasYDescuentos\ComprasYDescuentos\obj\Debug\ComprasYDescuentos.exe
+C:\Users\TF049\Documents\clases cursos C#\ComprasYDescuentos\ComprasYDescuentos\obj\Debug\ComprasYDescuentos.pdb
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 3 Desafios\ComprasYDescuentos\ComprasYDescuentos\bin\Debug\ComprasYDescuentos.exe.config
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 3 Desafios\ComprasYDescuentos\ComprasYDescuentos\bin\Debug\ComprasYDescuentos.exe
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 3 Desafios\ComprasYDescuentos\ComprasYDescuentos\bin\Debug\ComprasYDescuentos.pdb
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 3 Desafios\ComprasYDescuentos\ComprasYDescuentos\obj\Debug\ComprasYDescuentos.csproj.AssemblyReference.cache
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 3 Desafios\ComprasYDescuentos\ComprasYDescuentos\obj\Debug\ComprasYDescuentos.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 3 Desafios\ComprasYDescuentos\ComprasYDescuentos\obj\Debug\ComprasYDescuentos.exe
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 3 Desafios\ComprasYDescuentos\ComprasYDescuentos\obj\Debug\ComprasYDescuentos.pdb

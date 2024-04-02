@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TF049\\Documents\\clases cursos C#\\Laboratorio 3 Desafios\\ComprasYDescuentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{103CFE99-3D74-4D97-BB5E-F599C4731325}|ComprasYDescuentos\\ComprasYDescuentos.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\laboratorio 3 desafios\\comprasydescuentos\\comprasydescuentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103CFE99-3D74-4D97-BB5E-F599C4731325}|ComprasYDescuentos\\ComprasYDescuentos.csproj|solutionrelative:comprasydescuentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\Laboratorio 3 Desafios\\ComprasYDescuentos\\ComprasYDescuentos\\Program.cs",
+              "RelativeDocumentMoniker": "ComprasYDescuentos\\Program.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\Laboratorio 3 Desafios\\ComprasYDescuentos\\ComprasYDescuentos\\Program.cs",
+              "RelativeToolTip": "ComprasYDescuentos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:15:40.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

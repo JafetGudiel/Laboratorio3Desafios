@@ -1,0 +1,14 @@
+C:\Users\TF049\Documents\clases cursos C#\juegoTotito\juegoTotito\bin\Debug\juegoTotito.exe.config
+C:\Users\TF049\Documents\clases cursos C#\juegoTotito\juegoTotito\bin\Debug\juegoTotito.exe
+C:\Users\TF049\Documents\clases cursos C#\juegoTotito\juegoTotito\bin\Debug\juegoTotito.pdb
+C:\Users\TF049\Documents\clases cursos C#\juegoTotito\juegoTotito\obj\Debug\juegoTotito.csproj.AssemblyReference.cache
+C:\Users\TF049\Documents\clases cursos C#\juegoTotito\juegoTotito\obj\Debug\juegoTotito.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Documents\clases cursos C#\juegoTotito\juegoTotito\obj\Debug\juegoTotito.exe
+C:\Users\TF049\Documents\clases cursos C#\juegoTotito\juegoTotito\obj\Debug\juegoTotito.pdb
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 3 Desafios\juegoTotito\juegoTotito\bin\Debug\juegoTotito.exe.config
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 3 Desafios\juegoTotito\juegoTotito\bin\Debug\juegoTotito.exe
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 3 Desafios\juegoTotito\juegoTotito\bin\Debug\juegoTotito.pdb
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 3 Desafios\juegoTotito\juegoTotito\obj\Debug\juegoTotito.csproj.AssemblyReference.cache
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 3 Desafios\juegoTotito\juegoTotito\obj\Debug\juegoTotito.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 3 Desafios\juegoTotito\juegoTotito\obj\Debug\juegoTotito.exe
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 3 Desafios\juegoTotito\juegoTotito\obj\Debug\juegoTotito.pdb
